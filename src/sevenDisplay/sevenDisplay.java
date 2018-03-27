@@ -1,10 +1,9 @@
 package sevenDisplay;
 
-import java.net.SocketPermission;
 
 class sevenDisplay {
     public static void main(String[] args) {
-        int a = 1026;
+        int a = 1234567890;
         String aa = a + "";
         for(int i = 0; i < aa.length(); i++) {
             int k = Character.digit(aa.charAt(i),10);

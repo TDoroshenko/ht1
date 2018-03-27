@@ -2,7 +2,7 @@ package sevenDisplay;
 
 class sevenDisplay3 {
     public static void main(String[] args) {
-        int a = 140;
+        int a = 1234567890;
         String one = "._. ";
         String two = "... ";
         String three = "|.| ";
@@ -84,4 +84,3 @@ class sevenDisplay3 {
         }
     }
 }
-

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 class MyScanner {
 
-
     private static int number;
 
     public static int Scan() {
