@@ -1,8 +1,8 @@
 package SevenDisplayNew;
 
-class DigitsMagic {
+class DigitsLibrary {
 
-    DigitsMagic digits = new DigitsMagic();
+    DigitsLibrary digits = new DigitsLibrary();
 
     private static String one = "._. ";
     private static String two = "... ";
